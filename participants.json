@@ -1,171 +1,41 @@
 {
     "ERQ expression": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_56bbead1a7ed4",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "ERQ processing": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_56bbead1a7ed4",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "ERQ reappraisal": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_56bbead1a7ed4",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "ERQ suppression": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_56bbead1a7ed4",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "MOT_error_mean": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_50f72e93ea9e3",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "MOT_latency_md": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_50f72e93ea9e3",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "MOT_latency_mean": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_50f72e93ea9e3",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "SOC_meanmoves2": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_4da890cf99b9e",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "SOC_meanmoves3": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_4da890cf99b9e",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "SOC_meanmoves4": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_4da890cf99b9e",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "SOC_meanmoves5": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_4da890cf99b9e",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "SOC_prob_minmoves": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:trm_4da890cf99b9e",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "STAI": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:tsk_4a57abb949dfe",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "Smoking": {
